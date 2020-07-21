@@ -1,7 +1,7 @@
 Algoritmo "semnome"
 //  
 //  
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Maria Eduarda Araujo
 // Data atual  : 14/07/2020
 
@@ -23,7 +23,7 @@ procedimento digitarNota(X: inteiro)
 
 Inicio
 
-escreval("Prezado usuário, digite a nota da prova ", x ," : ")
+escreval("Prezado usuÃ¡rio, digite a nota da prova ", x ," : ")
 fimprocedimento
 
 Inicio
@@ -44,6 +44,6 @@ leia (Nota5)
 
 
 media<-calcularMedia (Nota1, Nota2, Nota3, Nota4, Nota5)
-escreval ("Média do aluno: ",media)
+escreval ("MÃ©dia do aluno: ",media)
 
 Fimalgoritmo
